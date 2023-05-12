@@ -1,0 +1,12 @@
+# Environment files
+.env
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.local/
+.npm/
+.cache/
+
+
+# Output files
+output/

@@ -6,7 +6,8 @@
 .local/
 .npm/
 .cache/
-
+__pycache__
 
 # Output files
-output/
+transformed_data/
+data/
